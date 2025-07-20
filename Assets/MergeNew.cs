@@ -8,6 +8,7 @@ public class MergeNew : MonoBehaviour
     void Start()
     {
         Debug.Log("Merge main");
+        Debug.Log("newUpdate main");
     }
 
     // Update is called once per frame

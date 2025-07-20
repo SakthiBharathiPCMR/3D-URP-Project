@@ -8,6 +8,7 @@ public class TestMain : MonoBehaviour
     void Start()
     {
         Debug.Log("Main Worked");
+        Debug.Log("New Feature Worked");
     }
 
     // Update is called once per frame
